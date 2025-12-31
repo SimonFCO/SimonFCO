@@ -45,7 +45,7 @@
 
   <!-- Aftonbladet -->
   <a href="https://www.aftonbladet.se" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Aftonbladet-%23E10E0E.svg?style=for-the-badge&logoColor=white" alt="aftonbladet" />
+    <img align="center" src="https://www.aftonbladet.se/" />
   </a>
 </p>
 
