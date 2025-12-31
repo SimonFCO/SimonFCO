@@ -34,7 +34,7 @@
   </a>
   
   <!-- GitHub -->
-  <a href="https://github.com/Username" target="blank">
+  <a href="https://github.com/SimonFCO" target="blank">
     <img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
 
@@ -45,8 +45,10 @@
 
   <!-- Aftonbladet -->
   <a href="https://www.aftonbladet.se" target="blank">
-    <img align="center" src="https://www.aftonbladet.se/" />
-  </a>
+  <img align="center" src="https://img.shields.io/badge/Aftonbladet-FFC300.svg?style=for-the-badge&logoColor=black" alt="Aftonbladet" />
+</a>
+
+  
 </p>
 
 
