@@ -27,11 +27,27 @@
   </p>
 
   <!-- Socials & Connect -->
-  <p>
-    <a href="https://twitter.com/SimonFCO" target="blank"><img align="center" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="twitter" /></a>
-    <a href="https://linkedin.com/in/SimonFCO" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-    <a href="https://discord.com" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="discord" /></a>
-  </p>
+  <p align="center">
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/Username" target="blank">
+    <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  
+  <!-- GitHub -->
+  <a href="https://github.com/Username" target="blank">
+    <img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+
+  <!-- Flashback -->
+  <a href="https://www.flashback.org/u/Username" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Flashback-%23333333.svg?style=for-the-badge&logoColor=white" alt="flashback" />
+  </a>
+
+  <!-- Aftonbladet -->
+  <a href="https://www.aftonbladet.se" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Aftonbladet-%23E10E0E.svg?style=for-the-badge&logoColor=white" alt="aftonbladet" />
+  </a>
+</p>
 
 
   
