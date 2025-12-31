@@ -1,16 +1,38 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**SimonFCO/SimonFCO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- Cool Header GIF -->
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTdtdjZvMG56ajBsN3c2cGYxeGZjN3N1aHowcmEwbHV3MmRqcW1neSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xVcuKW2a4s4XQe7wtl/giphy.gif" width="250" height="auto"/>
 
-Here are some ideas to get you started:
+  <!-- Short Bio -->
+  <h3>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p>
+     I try to make working code :). <br/>
+     Currently trying to learn <b>C++. <br/>
+  </p>
+
+  <!-- Tech Stack Badges (Modern/For-the-badge Style) -->
+  <h3>🛠️  Tech Stack</h3>
+  <p>
+    <p>
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+    <img src="https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white" />
+  </p>
+  </p>
+
+  <!-- Socials & Connect -->
+  <p>
+    <a href="https://twitter.com/SimonFCO" target="blank"><img align="center" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="twitter" /></a>
+    <a href="https://linkedin.com/in/SimonFCO" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+    <a href="https://discord.com" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="discord" /></a>
+  </p>
+
+
+  
+</div>
