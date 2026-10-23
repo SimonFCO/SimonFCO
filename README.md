@@ -8,7 +8,7 @@
 
   <p>
      I try to make working code :). <br/>
-     Currently trying to learn <b>C++. <br/>
+     Currently trying to learn <b>Zig. <br/>
   </p>
 
   <!-- Tech Stack Badges (Modern/For-the-badge Style) -->
